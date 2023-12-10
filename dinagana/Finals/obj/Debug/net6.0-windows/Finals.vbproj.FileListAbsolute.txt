@@ -1,0 +1,198 @@
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.vbproj.AssemblyReference.cache
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.Form1.resources
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.vbproj.GenerateResource.cache
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfoInputs.cache
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfo.vb
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CoreCompileInputs.cache
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Finals.exe
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Finals.deps.json
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Finals.runtimeconfig.json
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Finals.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Finals.pdb
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\kierron\source\repos\Finals\Finals\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CopyComplete
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.dll
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\refint\Finals.dll
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.pdb
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.genruntimeconfig.cache
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\ref\Finals.dll
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.Resources.resources
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.CreateAccount.resources
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.LoginPage.resources
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.MovieDataSets.resources
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.PasswordReset.resources
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.SelectionOfUser.resources
+C:\Users\kierron\source\repos\Finals\Finals\obj\Debug\net6.0-windows\Finals.ProfileSettings.resources
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.exe
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.deps.json
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.runtimeconfig.json
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.pdb
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Management.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\repo\Finals\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.AssemblyReference.cache
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.CreateAccount.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.Form1.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.GuideLines.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.LoginPage.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.MovieDataSets.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.Resources.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.NewReleaseMovies.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.PasswordReset.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.ProfileSettings.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.SelectionOfUser.resources
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.GenerateResource.cache
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfoInputs.cache
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfo.vb
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CoreCompileInputs.cache
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.sourcelink.json
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CopyComplete
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.dll
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\refint\Finals.dll
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.pdb
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.genruntimeconfig.cache
+D:\repo\Finals\Movie_DB\Finals\obj\Debug\net6.0-windows\ref\Finals.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.exe
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.deps.json
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.runtimeconfig.json
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.pdb
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Management.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.AssemblyReference.cache
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.CreateAccount.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.Form1.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.GuideLines.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.LoginPage.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.MovieDataSets.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.Resources.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.NewReleaseMovies.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.PasswordReset.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.ProfileSettings.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.SelectionOfUser.resources
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.GenerateResource.cache
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfoInputs.cache
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfo.vb
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CoreCompileInputs.cache
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CopyComplete
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\refint\Finals.dll
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.pdb
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.genruntimeconfig.cache
+D:\Git repo\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\ref\Finals.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.exe
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.deps.json
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.runtimeconfig.json
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Finals.pdb
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Management.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.AssemblyReference.cache
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.CreateAccount.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.Form1.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.GuideLines.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.LoginPage.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.MovieDataSets.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.Resources.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.NewReleaseMovies.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.PasswordReset.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.ProfileSettings.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.SelectionOfUser.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.GenerateResource.cache
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfoInputs.cache
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.AssemblyInfo.vb
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CoreCompileInputs.cache
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.sourcelink.json
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.vbproj.CopyComplete
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\refint\Finals.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.pdb
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.genruntimeconfig.cache
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\ref\Finals.dll
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.watchlist_form.resources
+D:\repo\Finals\MovieDatabase\Movie_DB\Finals\obj\Debug\net6.0-windows\Finals.AddmovietoPlaylist.resources
